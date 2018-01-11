@@ -1,4 +1,4 @@
-package com.example.design_pattern.chapter2.base.example;
+package com.example.design_pattern.chapter2.example;
 
 public class CashRebate extends CashSuper {
 
