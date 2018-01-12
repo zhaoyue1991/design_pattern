@@ -1,4 +1,4 @@
-package com.example.design_pattern.chapter2.example;
+package com.example.design_pattern.strategy.example;
 
 public class Test {
   public static void main(String[] args) {

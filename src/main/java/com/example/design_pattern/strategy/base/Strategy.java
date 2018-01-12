@@ -1,4 +1,4 @@
-package com.example.design_pattern.chapter2.base;
+package com.example.design_pattern.strategy.base;
 
 abstract class Strategy {
 
